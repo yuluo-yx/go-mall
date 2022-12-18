@@ -1,0 +1,4 @@
+time="2022-12-17 21:38:44" level=info msg="err: <nil>"
+time="2022-12-17 21:39:54" level=info msg="err: record not found"
+time="2022-12-17 22:56:41" level=info msg="err: Error 1054: Unknown column 'address_id' in 'where clause'"
+time="2022-12-17 22:57:25" level=info msg="err: record not found"
